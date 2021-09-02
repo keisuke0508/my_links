@@ -1,0 +1,13 @@
+{
+  "name": "my_links",
+  "scripts": {
+    "dev": "nuxt-ts --port 3000",
+    "build": "nuxt-ts build",
+    "generate": "nuxt-ts generate",
+    "start": "nuxt-ts start",
+    "analyze": "nuxt-ts build --analyze"
+  },
+  "dependencies": {
+    "nuxt-ts": "^2.8.1"
+  }
+}
