@@ -1,13 +1,18 @@
 {
   "name": "my_links",
   "scripts": {
-    "dev": "nuxt-ts --port 3000",
-    "build": "nuxt-ts build",
-    "generate": "nuxt-ts generate",
-    "start": "nuxt-ts start",
-    "analyze": "nuxt-ts build --analyze"
+    "dev": "nuxt --port 3000",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start",
+    "analyze": "nuxt build --analyze"
+  },
+  "devDependencies": {
+    "nuxt": "^2.15.8",
+    "@nuxt/types": "^2.15.8",
+    "@nuxt/typescript-build": "^2.1.0"
   },
   "dependencies": {
-    "nuxt-ts": "^2.8.1"
+    "@nuxt/typescript-runtime": "^2.1.0"
   }
 }
