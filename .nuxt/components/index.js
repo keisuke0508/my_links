@@ -1,4 +1,4 @@
-
+export { default as AppHeader } from '../../components/common/AppHeader.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

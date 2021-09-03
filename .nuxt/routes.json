@@ -1,8 +1,9 @@
 [
   {
-    "name": "",
-    "path": "",
-    "component": "/Users/onpa202103b/my_links/node_modules/@nuxt/vue-app/template/pages/index.vue",
-    "_name": "_20c69078"
+    "name": "index",
+    "path": "/",
+    "component": "/Users/onpa202103b/my_links/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_a5a78cda"
   }
 ]
