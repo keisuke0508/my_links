@@ -4,6 +4,7 @@
     <main class="main">
       <links></links>
     </main>
+    <app-footer></app-footer>
   </div>
 </template>
 

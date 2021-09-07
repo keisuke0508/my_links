@@ -1,4 +1,7 @@
 {
+  "AppFooter": {
+    "description": "Auto imported from components/common/AppFooter.vue"
+  },
   "AppHeader": {
     "description": "Auto imported from components/common/AppHeader.vue"
   },

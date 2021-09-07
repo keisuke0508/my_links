@@ -1,3 +1,4 @@
+export { default as AppFooter } from '../../components/common/AppFooter.vue'
 export { default as AppHeader } from '../../components/common/AppHeader.vue'
 export { default as Links } from '../../components/link/Links.vue'
 
