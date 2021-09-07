@@ -1,4 +1,5 @@
 export { default as AppHeader } from '../../components/common/AppHeader.vue'
+export { default as Links } from '../../components/link/Links.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {

@@ -15,9 +15,6 @@ export default class AppHeader extends Vue {}
 
 <style lang="scss" scoped>
 .header {
-  position: absolute;
-  top: 0;
-  left: 0;
   width: 100vw;
   height: 60px;
   background: linear-gradient(#333,#777);

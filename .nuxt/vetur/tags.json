@@ -1,5 +1,8 @@
 {
   "AppHeader": {
     "description": "Auto imported from components/common/AppHeader.vue"
+  },
+  "Links": {
+    "description": "Auto imported from components/link/Links.vue"
   }
 }
